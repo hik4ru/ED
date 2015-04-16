@@ -19,4 +19,6 @@ public class Paciente {
 		else return 0;
 	}
 	
+	https://github.com/hik4ru/ED
+	
 }
